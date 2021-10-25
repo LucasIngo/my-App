@@ -34,7 +34,6 @@ public class Schuldenliste extends AppCompatActivity implements View.OnClickList
     private int[] dummy = new int[7];
     private String text, text1, text2, text3, text4, text5, text6;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
