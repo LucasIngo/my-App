@@ -21,16 +21,6 @@ public class Schuldenliste extends AppCompatActivity implements View.OnClickList
     public static final String SHARED_PREFS = "sharedPrefs";
     public static final String[] w = {"wert0", "wert1", "wert2", "wert3", "wert4", "wert5", "wert6"};
 
-    /*
-    public static final String w0 = "wert0";
-    public static final String w1 = "wert1";
-    public static final String w2 = "wert2";
-    public static final String w3 = "wert3";
-    public static final String w4 = "wert4";
-    public static final String w5 = "wert5";
-    public static final String w6 = "wert6";
-    */
-
     private int[] dummy = new int[7];
     private String text, text1, text2, text3, text4, text5, text6;
 

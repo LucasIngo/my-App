@@ -103,8 +103,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     public void openActivitySchulden(){
-        double guthabenInt = aktuellerStand;
-
         Intent intent = new Intent(this, Schuldenliste.class);
         startActivity(intent);
     }
